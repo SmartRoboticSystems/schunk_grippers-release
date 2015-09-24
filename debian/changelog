@@ -1,0 +1,58 @@
+ros-indigo-schunk-ezn64 (1.3.7-0trusty) trusty; urgency=high
+
+  * fixed wrong getParam names
+  * Contributors: durovsky
+
+ -- Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>  Wed, 23 Sep 2015 22:00:00 -0000
+
+ros-indigo-schunk-ezn64 (1.3.6-0trusty) trusty; urgency=high
+
+  * palm link changed to base link
+  * added standalone visualization xacro model
+  * Contributors: durovsky
+
+ -- Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>  Tue, 22 Sep 2015 22:00:00 -0000
+
+ros-indigo-schunk-ezn64 (1.3.5-0trusty) trusty; urgency=high
+
+  * added tf dependency
+  * Contributors: durovsky
+
+ -- Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>  Mon, 21 Sep 2015 22:00:00 -0000
+
+ros-indigo-schunk-ezn64 (1.3.4-0trusty) trusty; urgency=high
+
+  * changed libusb dependencies
+  * Contributors: durovsky
+
+ -- Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>  Mon, 21 Sep 2015 22:00:00 -0000
+
+ros-indigo-schunk-ezn64 (1.3.3-0trusty) trusty; urgency=high
+
+  * added schunk_ in front of package name
+  * added CHANGELOGS
+  * finished renaming from pg70 to schunk_pg70
+  * Contributors: durovsky
+  * finished renaming from pg70 to schunk_pg70
+  * Contributors: durovsky
+
+ -- Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>  Thu, 17 Sep 2015 22:00:00 -0000
+
+ros-indigo-schunk-ezn64 (1.3.2-0trusty) trusty; urgency=high
+
+  * added acknowleding error
+  * updated launch file
+  * 1.3.1
+  * generated CHANGELOGS
+  * renamed package
+  * Contributors: durovsky
+
+ -- Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>  Thu, 17 Sep 2015 22:00:00 -0000
+
+ros-indigo-schunk-ezn64 (1.3.0-0trusty) trusty; urgency=high
+
+
+
+ -- Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>  Tue, 15 Sep 2015 22:00:00 -0000
+
+
