@@ -1,0 +1,12 @@
+Source: ros-indigo-schunk-ezn64
+Section: misc
+Priority: extra
+Maintainer: Frantisek Durovsky <frantisek.durovsky@smartroboticsys.eu>
+Build-Depends: debhelper (>= 9.0.0), libusb-1.0-0-dev, ros-indigo-catkin, ros-indigo-message-generation, ros-indigo-roscpp, ros-indigo-tf
+Homepage: http://www.smartroboticsys.eu/
+Standards-Version: 3.9.2
+
+Package: ros-indigo-schunk-ezn64
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libusb-1.0-0-dev, ros-indigo-roscpp, ros-indigo-tf
+Description: Xacro model and usb driver for basic communication with Schunk EZN64 gripper
